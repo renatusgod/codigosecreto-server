@@ -1,0 +1,7 @@
+problemas:
+
+  - Deve ser possível CADASTRAR um INVESTIDOR
+
+  - O INVESTIDOR deve ter a possibilidade de CADASTRAR várias AÇÕES/papéis
+  
+  - O INVESTIDOR precisa CADASTRAR suas EXPECTATIVAS DE DESEMPENHO para sua AÇÃO 
